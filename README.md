@@ -1,4 +1,4 @@
-# Physical Activity Classifier Using ML on Accelerometer Data
+# Physical Activity Classifier Using Machine Learning on Accelerometer Data
 ### Ria Sinha
 ### HarvardX: PH526x - Using Python for Research, Final Project
 
