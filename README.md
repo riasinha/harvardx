@@ -1,5 +1,5 @@
 # Physical Activity Classifier Using ML on Accelerometer Data
-### Ria Sinha, BISV
+### Ria Sinha
 ### HarvardX: PH526x - Using Python for Research, Final Project
 
 In this project, we'll attempt to predict the type of physical activity (e.g., walking, climbing stairs) from tri-axial smartphone accelerometer data. Smartphone accelerometers are very precise, and different physical activities give rise to different patterns of acceleration.
